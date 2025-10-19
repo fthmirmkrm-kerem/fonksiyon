@@ -1,0 +1,2 @@
+# fonksiyon
+fonksiyonlar kodu
